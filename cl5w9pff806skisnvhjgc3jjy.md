@@ -107,6 +107,7 @@ with the Date. BoolFilter contains only the `equals` and the `not` operations fo
 After this explanation, I think you have understood also the fields: `firstName`, `lastName`. 
 Now I want to go on to the `posts` and `comments` fields, that have the same approach.
 These fields allow you to check some particular cases inside the posts or the comments related to the record. Each field allows you to do these three operations `every`, `some` and `none`
+
 ```ts
 export type CommentListRelationFilter = {
   every?: CommentWhereInput
@@ -120,6 +121,7 @@ export type AuthorsOnPostListRelationFilter = {
   none?: AuthorsOnPostWhereInput
 }
 ```
+
 Using these filters you can check inside of the posts or the comments relative to the Author, so you can check:
 - if `every` post/comment has a particular value or more particular values
 - if `some` post/comment has a particular value or more particular values
