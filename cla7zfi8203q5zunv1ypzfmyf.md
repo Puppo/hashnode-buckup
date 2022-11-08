@@ -1,4 +1,4 @@
-# Working with GitHub from your best editor
+# Working with GitHub Actions from your best editor
 
 Hi folks, <br />
 today I'm going to speak about another cool VsCode Extension.
