@@ -1,4 +1,4 @@
-# Be awerness in your codebase with Nx
+# Be aware of your codebase with Nx
 
 ## Preface
 
