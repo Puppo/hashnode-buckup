@@ -16,7 +16,7 @@ To work with profiles, you have to make your focus on the bottom-left of your ed
 
 It’s not rocket science, but it’s very helpful, in my opinion.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673294669770/9ea3e28e-22a3-47f9-9857-fd60ccdf7459.gif align="center")
+![Profile](https://cdn.hashnode.com/res/hashnode/image/upload/v1673351934697/92684122-6a15-4e9c-80b1-874d69787ed3.avif align="center")
 
 ### Create a new Profile
 
