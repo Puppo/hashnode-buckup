@@ -28,7 +28,7 @@ You must click the Profile section and select Create New Profile to create a new
 
 Delete profile is easy peasy; click on the Profile section and select "Delete Profile", then you have to choose the Profile that you want to delete (one or many) and click the Ok button. Now the game is done, the profile will be removed.
 
-![Delete](https://cdn.hashnode.com/res/hashnode/image/upload/v1673295152356/eeb805c2-a68f-4854-a6d4-03ca3f8bbc0b.gif align="center")
+![Delete](https://cdn.hashnode.com/res/hashnode/image/upload/v1673346392320/c4b8b5b4-7d0b-41f5-b6a6-97c37ed7b685.avif align="center")
 
 ## Conclusion
 
