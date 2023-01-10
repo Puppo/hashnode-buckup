@@ -22,13 +22,13 @@ It’s not rocket science, but it’s very helpful, in my opinion.
 
 You must click the Profile section and select Create New Profile to create a new one. Now you can choose between two options: an empty configuration or starting from another profile. Now the decision is in your hands. Add, remove, and change your configuration as you want in base on your needs. For instance, I created different setups based on the context: AWS, Azure, Node, Angular, and React. You can find your best solution to improve your productivity.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673295143001/6006fafb-ce72-4fea-b317-47a9012643ed.gif align="center")
+![Creation](https://cdn.hashnode.com/res/hashnode/image/upload/v1673295143001/6006fafb-ce72-4fea-b317-47a9012643ed.gif align="center")
 
 ### Delete Profile
 
 Delete profile is easy peasy; click on the Profile section and select "Delete Profile", then you have to choose the Profile that you want to delete (one or many) and click the Ok button. Now the game is done, the profile will be removed.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673295152356/eeb805c2-a68f-4854-a6d4-03ca3f8bbc0b.gif align="center")
+![Delete](https://cdn.hashnode.com/res/hashnode/image/upload/v1673295152356/eeb805c2-a68f-4854-a6d4-03ca3f8bbc0b.gif align="center")
 
 ## Conclusion
 
