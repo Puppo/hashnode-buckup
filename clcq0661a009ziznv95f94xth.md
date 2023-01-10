@@ -16,19 +16,19 @@ To work with profiles, you have to make your focus on the bottom-left of your ed
 
 It’s not rocket science, but it’s very helpful, in my opinion.
 
-![Profile](https://cdn.hashnode.com/res/hashnode/image/upload/v1673351934697/92684122-6a15-4e9c-80b1-874d69787ed3.avif align="center")
+![Profile](https://cdn.hashnode.com/res/hashnode/image/upload/v1673357886590/c257a31b-d507-4035-b65f-81c0e141f101.gif align="center")
 
 ### Create a new Profile
 
 You must click the Profile section and select Create New Profile to create a new one. Now you can choose between two options: an empty configuration or starting from another profile. Now the decision is in your hands. Add, remove, and change your configuration as you want in base on your needs. For instance, I created different setups based on the context: AWS, Azure, Node, Angular, and React. You can find your best solution to improve your productivity.
 
-![Creation](https://cdn.hashnode.com/res/hashnode/image/upload/v1673351586406/3fe9ba77-f639-493f-a832-4f2e3dae5014.avif align="center")
+![Create](https://cdn.hashnode.com/res/hashnode/image/upload/v1673357931585/2458a85d-40aa-4ceb-b033-c987835b2325.gif align="center")
 
 ### Delete Profile
 
 Delete profile is easy peasy; click on the Profile section and select "Delete Profile", then you have to choose the Profile that you want to delete (one or many) and click the Ok button. Now the game is done, the profile will be removed.
 
-![Delete](https://cdn.hashnode.com/res/hashnode/image/upload/v1673346392320/c4b8b5b4-7d0b-41f5-b6a6-97c37ed7b685.avif align="center")
+![Delete](https://cdn.hashnode.com/res/hashnode/image/upload/v1673357733889/2541f2a2-0df6-4c05-a2a9-0ebcee9205a2.gif align="center")
 
 ## Conclusion
 
