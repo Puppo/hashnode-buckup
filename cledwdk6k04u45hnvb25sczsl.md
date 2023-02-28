@@ -1,4 +1,4 @@
-# Why I love GitLens in my VsCode - Part 2
+# Why I love GitLens in my VsCode - Blame & Compare
 
 When you work with git, you want to get info about commits and who changed the codebase quickly.
 
