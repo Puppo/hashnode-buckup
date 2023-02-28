@@ -1,4 +1,4 @@
-# Why I love GitLens in my VsCode - Part 3
+# Why I love GitLens in my VsCode - Iterative Rebase
 
 One of the processes I typically do in my daily work is interactive rebase.  
 I commit a lot, and then before pushing the result, I try to make the history more readable.
