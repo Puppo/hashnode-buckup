@@ -1,4 +1,4 @@
-# Why I love GitLens in my VsCode - Part 1
+# Why I love GitLens in my VsCode - First Steps
 
 In my daily routine, I work with git, and I suppose it's the same for you.  
 I know all the standard commands to work with it in my terminal, and I love them.  
