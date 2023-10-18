@@ -23,20 +23,20 @@ Here's a simple example of creating a Proxy:
 ```javascript
 const target = { name: "John", surname: "Doe", fullName: "John Doe" };
 const handler = {
-  get(target, prop) {
-    return target[prop] ? target[prop].toUpperCase() : "Property not found";
+  get(_target, prop) {
+    return _target[prop] ? _target[prop].toUpperCase() : "Property not found";
   },
-  set(target, prop, value) {
+  set(_target, prop, value) {
     if (prop === 'name') {
-      target.fullName = value + ' ' + target.surname;
+      _target.fullName = value + ' ' + _target.surname;
     }
     if (prop === 'surname') {
-      target.fullName = target.name + ' ' + value;
+      _target.fullName = _target.name + ' ' + value;
     }
     if (prop === 'fullName') {
       throw new Error('fullName is not writable')
     }
-    target[prop] = value;
+    _target[prop] = value;
     return true;
   }
 };
@@ -63,11 +63,11 @@ Proxies can be used to enforce data validation and constraints when setting prop
 ```javascript
 const target = { age: 25 };
 const handler = {
-  set(target, prop, value) {
+  set(_target, prop, value) {
     if (prop === "age" && (typeof value !== "number" || value < 0 || value > 150)) {
       throw new TypeError("Invalid age value");
     }
-    target[prop] = value;
+    _target[prop] = value;
     return true;
   },
 };
@@ -84,13 +84,13 @@ Proxies can be used to log and profile operations performed on an object, which 
 ```javascript
 const target = { message: "Hello, World!" };
 const handler = {
-  get(target, prop) {
+  get(_target, prop) {
     console.log(`Accessing property "${prop}"`);
-    return target[prop];
+    return _target[prop];
   },
-  set(target, prop, value) {
+  set(_target, prop, value) {
     console.log(`Setting property "${prop}" to "${value}"`);
-    target[prop] = value;
+    _target[prop] = value;
     return true;
   },
 };
