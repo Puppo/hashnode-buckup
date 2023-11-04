@@ -3,7 +3,7 @@ title: "Cracking the JavaScript Code: Unveil the Magic of Object Property Descri
 datePublished: Thu Nov 02 2023 06:35:07 GMT+0000 (Coordinated Universal Time)
 cuid: clogtb3j1000209mjhmnfaefs
 slug: cracking-the-javascript-code-unveil-the-magic-of-object-property-descriptors
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698700400257/ae836ffe-65b2-48fc-b125-cb9698fbb2b2.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699107816121/e8e2d5da-3c3e-4cfb-91d8-8cf04c5ca6ba.png
 tags: js, javascript, objects, descriptor
 
 ---
